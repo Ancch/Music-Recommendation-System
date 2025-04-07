@@ -1,0 +1,601 @@
+ID,Title,Artist,Genre,Mood,Tempo
+1,Let Her Go,Ed Sheeran,Rock,Nostalgic,88
+2,Rolling in the Deep,Leonard Cohen,Disco,Happy,93
+3,Uptown Funk,Queen,Pop,Calm,78
+4,Can't Stop the Feeling,BTS,Disco,Angry,110
+5,Lose Yourself,Bee Gees,Folk,Excited,141
+6,Hey Jude,Leonard Cohen,Disco,Excited,94
+7,Imagine,Nirvana,Synthpop,Happy,106
+8,Perfect,Nirvana,Rock,Happy,120
+9,Radioactive,Bee Gees,Pop,Calm,140
+10,Stressed Out,The Weeknd,Rock,Romantic,162
+11,Believer,The Weeknd,Pop,Dramatic,120
+12,Demons,Ed Sheeran,Pop,Dramatic,71
+13,Sunflower,OneRepublic,Ballad,Calm,73
+14,Happier,Coldplay,Rock,Excited,64
+15,Lovely,Adele,Rock,Excited,180
+16,Bad Guy,Nirvana,Folk,Calm,171
+17,Old Town Road,The Beatles,Rock,Excited,115
+18,Memories,Coldplay,Alternative,Dramatic,135
+19,Senorita,Ed Sheeran,Rock,Sad,167
+20,Closer,Coldplay,Synthpop,Nostalgic,157
+21,Rockstar,Queen,Rock,Nostalgic,93
+22,Lucid Dreams,Ed Sheeran,Disco,Happy,136
+23,Girls Like You,Nirvana,Ballad,Nostalgic,167
+24,God's Plan,Queen,Folk,Nostalgic,139
+25,Despacito,Adele,Rock,Excited,115
+26,Thinking Out Loud,Taylor Swift,Disco,Excited,148
+27,Photograph,Leonard Cohen,Folk,Dramatic,169
+28,All of Me,Queen,Alternative,Sad,78
+29,Counting Stars,Bee Gees,Folk,Nostalgic,77
+30,Shallow,The Beatles,Synthpop,Dramatic,178
+31,Say You Won't Let Go,Bee Gees,Rock,Romantic,65
+32,Cheap Thrills,Taylor Swift,Pop,Calm,134
+33,Faded,Ed Sheeran,Rock,Excited,112
+34,7 Years,Taylor Swift,Ballad,Nostalgic,170
+35,Sugar,Coldplay,Folk,Sad,163
+36,Animals,Ed Sheeran,Rock,Excited,152
+37,Blank Space,Queen,Rock,Happy,127
+38,Shake It Off,Taylor Swift,Disco,Sad,110
+39,Happy,Bee Gees,Synthpop,Romantic,68
+40,Royals,BTS,Rock,Calm,96
+41,Somebody That I Used to Know,The Beatles,Folk,Romantic,67
+42,Call Me Maybe,OneRepublic,Alternative,Calm,161
+43,Stronger,The Beatles,Rock,Sad,147
+44,Dark Horse,The Beatles,Synthpop,Excited,105
+45,Timber,Bee Gees,Rock,Happy,71
+46,Wake Me Up,BTS,Pop,Calm,85
+47,We Found Love,Ed Sheeran,Ballad,Angry,133
+48,Born This Way,Ed Sheeran,Pop,Calm,136
+49,Just the Way You Are,Queen,Folk,Excited,63
+50,Firework,The Weeknd,Disco,Angry,121
+51,Memories (32),Bee Gees,Rock,Romantic,103
+52,Somebody That I Used to Know (90),Leonard Cohen,Synthpop,Romantic,105
+53,Demons (70),Leonard Cohen,Alternative,Nostalgic,80
+54,Shallow (42),The Beatles,Folk,Nostalgic,85
+55,Shake It Off (80),Leonard Cohen,Folk,Excited,63
+56,Believer (6),BTS,Rock,Excited,175
+57,Sugar (77),OneRepublic,Pop,Excited,174
+58,Despacito (80),Ed Sheeran,Rock,Sad,109
+59,Photograph (71),Nirvana,Pop,Nostalgic,171
+60,Demons (85),OneRepublic,Ballad,Sad,101
+61,Believer (74),Bee Gees,Rock,Excited,124
+62,Happy (58),OneRepublic,Ballad,Calm,109
+63,Animals (54),Leonard Cohen,Alternative,Excited,94
+64,Blank Space (58),Coldplay,Alternative,Excited,114
+65,Royals (95),Ed Sheeran,Ballad,Dramatic,69
+66,Thinking Out Loud (11),Leonard Cohen,Disco,Happy,82
+67,Born This Way (89),Coldplay,Rock,Romantic,172
+68,Uptown Funk (60),Bee Gees,Alternative,Nostalgic,112
+69,We Found Love (43),OneRepublic,Synthpop,Excited,175
+70,Believer (10),Coldplay,Synthpop,Excited,135
+71,Faded (53),Adele,Ballad,Angry,171
+72,Hey Jude (15),Leonard Cohen,Ballad,Excited,63
+73,Believer (47),The Weeknd,Disco,Nostalgic,162
+74,Royals (97),Taylor Swift,Rock,Sad,112
+75,Hey Jude (83),The Beatles,Ballad,Angry,113
+76,Can't Stop the Feeling (88),The Beatles,Alternative,Excited,137
+77,Cheap Thrills (27),OneRepublic,Rock,Dramatic,173
+78,Royals (61),Queen,Disco,Happy,64
+79,Blank Space (6),Taylor Swift,Rock,Romantic,122
+80,Shallow (37),Coldplay,Folk,Angry,113
+81,Despacito (28),Nirvana,Alternative,Dramatic,156
+82,All of Me (45),Queen,Alternative,Calm,165
+83,Memories (90),Queen,Ballad,Romantic,173
+84,Old Town Road (31),OneRepublic,Ballad,Sad,109
+85,Born This Way (57),The Beatles,Disco,Romantic,136
+86,Radioactive (40),Ed Sheeran,Folk,Happy,162
+87,Bad Guy (78),The Weeknd,Alternative,Angry,114
+88,Somebody That I Used to Know (18),Ed Sheeran,Pop,Dramatic,73
+89,Blank Space (52),Adele,Synthpop,Excited,80
+90,Cheap Thrills (21),OneRepublic,Folk,Happy,141
+91,Old Town Road (51),Taylor Swift,Rock,Dramatic,159
+92,Cheap Thrills (51),The Weeknd,Pop,Nostalgic,129
+93,Rockstar (42),Adele,Synthpop,Angry,106
+94,Radioactive (98),Coldplay,Rock,Excited,122
+95,Photograph (76),The Beatles,Folk,Dramatic,165
+96,Wake Me Up (32),Coldplay,Rock,Excited,76
+97,Closer (68),Bee Gees,Synthpop,Sad,90
+98,Demons (53),Adele,Folk,Calm,86
+99,Photograph (98),BTS,Disco,Romantic,135
+100,Shake It Off (43),OneRepublic,Folk,Romantic,173
+101,Imagine (60),The Weeknd,Rock,Romantic,172
+102,Can't Stop the Feeling (95),BTS,Ballad,Excited,175
+103,Imagine (3),OneRepublic,Ballad,Dramatic,157
+104,Believer (29),Leonard Cohen,Disco,Excited,178
+105,Rolling in the Deep (67),Queen,Ballad,Romantic,94
+106,Demons (67),OneRepublic,Synthpop,Happy,178
+107,Faded (9),Nirvana,Disco,Dramatic,83
+108,Old Town Road (57),OneRepublic,Ballad,Happy,90
+109,Born This Way (76),Coldplay,Folk,Sad,134
+110,Let Her Go (58),OneRepublic,Synthpop,Happy,61
+111,Lovely (85),Queen,Disco,Happy,61
+112,Firework (13),Taylor Swift,Ballad,Calm,147
+113,Counting Stars (73),Ed Sheeran,Synthpop,Romantic,137
+114,Senorita (88),The Weeknd,Ballad,Excited,103
+115,Shake It Off (16),Nirvana,Folk,Happy,177
+116,Royals (23),Nirvana,Pop,Angry,159
+117,Say You Won't Let Go (17),The Weeknd,Synthpop,Nostalgic,165
+118,Memories (29),Coldplay,Synthpop,Excited,162
+119,Radioactive (14),Ed Sheeran,Alternative,Dramatic,166
+120,Firework (17),Bee Gees,Synthpop,Excited,98
+121,Shake It Off (74),Bee Gees,Ballad,Excited,161
+122,Dark Horse (34),BTS,Alternative,Excited,128
+123,Senorita (89),Adele,Pop,Romantic,127
+124,7 Years (63),The Beatles,Pop,Angry,60
+125,Dark Horse (84),Taylor Swift,Alternative,Nostalgic,176
+126,Born This Way (43),The Weeknd,Ballad,Romantic,158
+127,Uptown Funk (24),Bee Gees,Rock,Sad,139
+128,Girls Like You (94),The Beatles,Folk,Sad,87
+129,Lose Yourself (5),The Beatles,Ballad,Dramatic,148
+130,Senorita (88),Taylor Swift,Pop,Angry,117
+131,Happier (27),BTS,Synthpop,Nostalgic,161
+132,Shallow (72),The Weeknd,Pop,Excited,158
+133,Let Her Go (22),Ed Sheeran,Disco,Happy,77
+134,Sunflower (99),Taylor Swift,Alternative,Angry,85
+135,Let Her Go (16),Leonard Cohen,Rock,Angry,73
+136,Born This Way (93),Nirvana,Rock,Happy,139
+137,Sunflower (80),OneRepublic,Synthpop,Romantic,85
+138,Sugar (15),Nirvana,Ballad,Calm,78
+139,Bad Guy (90),Coldplay,Pop,Sad,144
+140,Say You Won't Let Go (35),Nirvana,Ballad,Calm,103
+141,Say You Won't Let Go (17),The Beatles,Folk,Calm,151
+142,Lovely (36),OneRepublic,Folk,Angry,128
+143,Dark Horse (92),Queen,Disco,Romantic,104
+144,God's Plan (16),BTS,Ballad,Romantic,106
+145,Imagine (82),The Beatles,Rock,Excited,170
+146,Stronger (29),Adele,Pop,Calm,151
+147,Uptown Funk (80),Ed Sheeran,Synthpop,Excited,160
+148,Timber (41),The Weeknd,Disco,Sad,156
+149,Radioactive (72),Ed Sheeran,Rock,Dramatic,168
+150,All of Me (61),Queen,Disco,Nostalgic,141
+151,Happy (80),Bee Gees,Disco,Angry,163
+152,Believer (82),Bee Gees,Pop,Excited,129
+153,Just the Way You Are (9),Nirvana,Disco,Angry,151
+154,Old Town Road (58),Coldplay,Alternative,Nostalgic,170
+155,Dark Horse (74),Coldplay,Rock,Nostalgic,108
+156,Stronger (93),The Weeknd,Disco,Nostalgic,158
+157,Royals (31),OneRepublic,Pop,Angry,164
+158,Senorita (73),Nirvana,Ballad,Angry,72
+159,Hey Jude (64),Coldplay,Pop,Dramatic,89
+160,Imagine (68),Leonard Cohen,Rock,Romantic,127
+161,Memories (75),Taylor Swift,Synthpop,Nostalgic,135
+162,Shake It Off (66),The Weeknd,Alternative,Excited,62
+163,Stronger (95),The Beatles,Alternative,Calm,156
+164,Born This Way (1),The Weeknd,Rock,Nostalgic,122
+165,Closer (2),Taylor Swift,Disco,Happy,84
+166,Say You Won't Let Go (7),Ed Sheeran,Pop,Dramatic,139
+167,Hey Jude (6),Queen,Folk,Angry,174
+168,Animals (29),Adele,Alternative,Sad,149
+169,Rolling in the Deep (98),The Weeknd,Folk,Romantic,180
+170,Old Town Road (73),The Beatles,Pop,Dramatic,122
+171,Girls Like You (51),BTS,Disco,Happy,102
+172,Photograph (34),The Weeknd,Alternative,Nostalgic,143
+173,Bad Guy (73),Adele,Disco,Nostalgic,135
+174,Happy (57),Queen,Disco,Angry,174
+175,Girls Like You (33),Queen,Disco,Happy,67
+176,Born This Way (32),The Weeknd,Folk,Romantic,173
+177,Senorita (92),Queen,Synthpop,Angry,127
+178,Counting Stars (93),Leonard Cohen,Rock,Sad,64
+179,We Found Love (63),The Weeknd,Disco,Angry,151
+180,Royals (4),BTS,Folk,Sad,153
+181,Thinking Out Loud (90),Nirvana,Folk,Romantic,174
+182,Thinking Out Loud (70),BTS,Alternative,Dramatic,166
+183,Perfect (33),The Beatles,Synthpop,Excited,168
+184,Sugar (52),OneRepublic,Disco,Sad,98
+185,Rockstar (21),The Beatles,Pop,Calm,135
+186,Blank Space (13),BTS,Disco,Nostalgic,127
+187,Happy (45),The Weeknd,Pop,Angry,123
+188,Radioactive (28),The Beatles,Pop,Calm,125
+189,Old Town Road (71),Leonard Cohen,Alternative,Excited,144
+190,Believer (56),Coldplay,Pop,Sad,62
+191,Photograph (9),BTS,Alternative,Nostalgic,113
+192,Blank Space (48),Queen,Disco,Angry,87
+193,Lose Yourself (67),The Beatles,Pop,Angry,176
+194,Happier (63),Taylor Swift,Synthpop,Nostalgic,74
+195,Girls Like You (56),Taylor Swift,Disco,Dramatic,133
+196,Say You Won't Let Go (22),Coldplay,Ballad,Nostalgic,62
+197,Dark Horse (22),Queen,Synthpop,Happy,67
+198,Shake It Off (49),Ed Sheeran,Synthpop,Happy,136
+199,Old Town Road (31),BTS,Ballad,Angry,94
+200,Stronger (88),Ed Sheeran,Folk,Romantic,132
+201,Animals (54),The Beatles,Synthpop,Excited,80
+202,All of Me (55),The Beatles,Disco,Sad,70
+203,Believer (71),Coldplay,Pop,Happy,171
+204,Radioactive (14),OneRepublic,Ballad,Happy,88
+205,Stronger (24),Bee Gees,Ballad,Dramatic,121
+206,Call Me Maybe (22),Adele,Disco,Nostalgic,97
+207,Lucid Dreams (83),Ed Sheeran,Alternative,Angry,78
+208,Cheap Thrills (95),Adele,Ballad,Sad,110
+209,Can't Stop the Feeling (45),The Beatles,Synthpop,Calm,165
+210,Uptown Funk (27),Leonard Cohen,Pop,Angry,112
+211,Timber (15),OneRepublic,Pop,Romantic,97
+212,Lucid Dreams (91),The Weeknd,Rock,Calm,71
+213,Born This Way (86),OneRepublic,Rock,Dramatic,126
+214,Timber (25),Bee Gees,Folk,Excited,147
+215,Senorita (75),Adele,Ballad,Excited,125
+216,Can't Stop the Feeling (97),Leonard Cohen,Folk,Happy,165
+217,Counting Stars (77),The Beatles,Rock,Excited,91
+218,Happier (67),Queen,Disco,Calm,158
+219,Lovely (66),Ed Sheeran,Alternative,Sad,70
+220,Old Town Road (92),Adele,Ballad,Romantic,175
+221,Happy (22),The Beatles,Folk,Dramatic,110
+222,7 Years (95),OneRepublic,Disco,Sad,92
+223,Can't Stop the Feeling (39),Taylor Swift,Folk,Happy,136
+224,Shallow (7),BTS,Folk,Happy,147
+225,Shallow (19),Nirvana,Pop,Sad,70
+226,We Found Love (77),Queen,Disco,Calm,163
+227,Thinking Out Loud (32),Bee Gees,Alternative,Happy,67
+228,Firework (19),OneRepublic,Synthpop,Excited,104
+229,God's Plan (22),Nirvana,Ballad,Romantic,140
+230,Happier (63),Taylor Swift,Disco,Romantic,73
+231,Lucid Dreams (55),OneRepublic,Rock,Sad,60
+232,Demons (23),Ed Sheeran,Ballad,Nostalgic,145
+233,Born This Way (24),The Beatles,Folk,Dramatic,179
+234,Born This Way (38),The Weeknd,Alternative,Calm,60
+235,Timber (48),Bee Gees,Synthpop,Calm,97
+236,Hey Jude (70),Leonard Cohen,Ballad,Romantic,147
+237,Animals (90),Queen,Disco,Happy,127
+238,Counting Stars (52),The Weeknd,Synthpop,Angry,144
+239,Happy (2),The Weeknd,Pop,Happy,136
+240,Uptown Funk (56),Queen,Rock,Sad,106
+241,Wake Me Up (60),Bee Gees,Folk,Sad,95
+242,Can't Stop the Feeling (98),The Weeknd,Synthpop,Excited,61
+243,Sugar (11),Taylor Swift,Ballad,Happy,108
+244,God's Plan (32),The Beatles,Rock,Sad,155
+245,Cheap Thrills (84),Taylor Swift,Disco,Happy,85
+246,We Found Love (64),Adele,Alternative,Excited,107
+247,God's Plan (11),Leonard Cohen,Pop,Nostalgic,168
+248,Born This Way (61),Leonard Cohen,Folk,Happy,95
+249,Old Town Road (98),Coldplay,Rock,Happy,134
+250,Firework (82),Adele,Synthpop,Romantic,123
+251,Can't Stop the Feeling (21),Bee Gees,Ballad,Sad,75
+252,We Found Love (11),Ed Sheeran,Alternative,Dramatic,116
+253,Animals (7),Queen,Pop,Excited,77
+254,Sunflower (97),Bee Gees,Folk,Nostalgic,120
+255,Old Town Road (13),Leonard Cohen,Synthpop,Romantic,150
+256,Lovely (53),Bee Gees,Ballad,Dramatic,129
+257,We Found Love (47),The Beatles,Pop,Calm,83
+258,Say You Won't Let Go (11),BTS,Disco,Nostalgic,70
+259,Let Her Go (66),OneRepublic,Disco,Excited,148
+260,Sugar (62),Adele,Folk,Dramatic,136
+261,Sunflower (40),OneRepublic,Synthpop,Romantic,63
+262,Let Her Go (44),BTS,Pop,Calm,131
+263,Let Her Go (74),Taylor Swift,Synthpop,Calm,90
+264,Happier (34),Leonard Cohen,Ballad,Excited,140
+265,Lucid Dreams (51),Ed Sheeran,Ballad,Dramatic,63
+266,Born This Way (60),OneRepublic,Pop,Dramatic,76
+267,Radioactive (50),BTS,Rock,Angry,155
+268,Somebody That I Used to Know (59),The Beatles,Pop,Romantic,163
+269,Bad Guy (99),Coldplay,Synthpop,Nostalgic,166
+270,Imagine (57),Coldplay,Rock,Happy,146
+271,Lose Yourself (41),Queen,Folk,Angry,117
+272,Timber (36),Leonard Cohen,Ballad,Angry,62
+273,Happier (52),Taylor Swift,Alternative,Excited,92
+274,Can't Stop the Feeling (41),Nirvana,Disco,Calm,79
+275,Memories (7),Nirvana,Pop,Happy,119
+276,Lucid Dreams (59),OneRepublic,Synthpop,Romantic,100
+277,Firework (10),BTS,Rock,Happy,154
+278,Blank Space (87),The Beatles,Synthpop,Sad,91
+279,Rolling in the Deep (80),Coldplay,Disco,Angry,62
+280,All of Me (55),The Beatles,Alternative,Excited,118
+281,Happier (94),Nirvana,Pop,Romantic,79
+282,Despacito (92),Coldplay,Ballad,Excited,88
+283,God's Plan (67),Nirvana,Rock,Happy,69
+284,Radioactive (46),BTS,Rock,Nostalgic,67
+285,Senorita (17),Leonard Cohen,Alternative,Calm,66
+286,Despacito (74),Taylor Swift,Alternative,Angry,157
+287,Radioactive (22),Leonard Cohen,Disco,Excited,98
+288,Hey Jude (36),Queen,Ballad,Dramatic,154
+289,Photograph (58),OneRepublic,Alternative,Romantic,61
+290,Just the Way You Are (17),Taylor Swift,Synthpop,Romantic,166
+291,Lucid Dreams (79),Leonard Cohen,Alternative,Angry,119
+292,Blank Space (20),Coldplay,Synthpop,Nostalgic,137
+293,Happy (91),BTS,Synthpop,Dramatic,114
+294,Cheap Thrills (39),Nirvana,Folk,Sad,105
+295,Uptown Funk (23),Queen,Disco,Excited,74
+296,Thinking Out Loud (70),The Weeknd,Synthpop,Nostalgic,138
+297,Shallow (71),Queen,Pop,Angry,172
+298,Firework (72),BTS,Synthpop,Happy,102
+299,Memories (17),The Beatles,Pop,Happy,155
+300,Lovely (17),Adele,Alternative,Dramatic,163
+301,Uptown Funk (36),The Weeknd,Ballad,Happy,166
+302,Timber (90),Adele,Rock,Dramatic,118
+303,Bad Guy (45),The Beatles,Ballad,Romantic,144
+304,7 Years (27),Ed Sheeran,Folk,Calm,144
+305,Just the Way You Are (55),Leonard Cohen,Alternative,Dramatic,75
+306,Counting Stars (68),Queen,Disco,Happy,148
+307,Hey Jude (26),Leonard Cohen,Folk,Calm,126
+308,Believer (51),BTS,Pop,Romantic,140
+309,Stressed Out (67),Adele,Alternative,Happy,88
+310,Born This Way (1),Taylor Swift,Alternative,Dramatic,171
+311,Lose Yourself (1),BTS,Folk,Dramatic,80
+312,Stressed Out (61),Queen,Disco,Dramatic,161
+313,We Found Love (63),OneRepublic,Disco,Romantic,88
+314,Lose Yourself (73),The Weeknd,Synthpop,Dramatic,69
+315,Shallow (38),Bee Gees,Rock,Calm,163
+316,Born This Way (90),Taylor Swift,Folk,Angry,88
+317,Thinking Out Loud (48),The Weeknd,Disco,Calm,142
+318,7 Years (54),The Beatles,Pop,Sad,142
+319,Let Her Go (75),Nirvana,Alternative,Nostalgic,64
+320,Call Me Maybe (44),Ed Sheeran,Pop,Sad,176
+321,Sugar (6),Coldplay,Ballad,Romantic,159
+322,Thinking Out Loud (8),Adele,Ballad,Angry,68
+323,Stronger (31),Bee Gees,Rock,Excited,140
+324,Timber (5),BTS,Disco,Calm,123
+325,Wake Me Up (74),Bee Gees,Alternative,Excited,135
+326,Imagine (87),OneRepublic,Ballad,Angry,76
+327,Timber (61),Bee Gees,Pop,Sad,144
+328,Hey Jude (15),Queen,Pop,Happy,149
+329,Happier (5),The Beatles,Rock,Angry,126
+330,Happy (97),OneRepublic,Disco,Calm,176
+331,Blank Space (65),Leonard Cohen,Disco,Romantic,155
+332,Timber (77),Ed Sheeran,Synthpop,Sad,157
+333,Royals (11),Queen,Folk,Excited,180
+334,Old Town Road (42),The Beatles,Folk,Excited,173
+335,Stronger (52),The Weeknd,Ballad,Sad,174
+336,Just the Way You Are (18),Ed Sheeran,Alternative,Sad,76
+337,Old Town Road (95),Ed Sheeran,Rock,Dramatic,84
+338,Animals (24),The Beatles,Folk,Angry,165
+339,Photograph (53),Nirvana,Synthpop,Excited,163
+340,Thinking Out Loud (21),Nirvana,Alternative,Dramatic,160
+341,Radioactive (17),OneRepublic,Folk,Romantic,68
+342,Born This Way (77),Queen,Synthpop,Angry,80
+343,Sugar (48),Bee Gees,Disco,Calm,118
+344,Uptown Funk (92),Leonard Cohen,Pop,Dramatic,158
+345,Sunflower (59),OneRepublic,Rock,Excited,152
+346,Faded (19),OneRepublic,Rock,Angry,65
+347,Senorita (5),BTS,Folk,Sad,84
+348,Thinking Out Loud (17),Nirvana,Alternative,Sad,162
+349,All of Me (9),Taylor Swift,Alternative,Angry,110
+350,Thinking Out Loud (74),BTS,Ballad,Calm,67
+351,Somebody That I Used to Know (6),The Beatles,Rock,Sad,101
+352,Bad Guy (8),Coldplay,Ballad,Angry,87
+353,Sugar (77),Coldplay,Disco,Calm,113
+354,Somebody That I Used to Know (34),Adele,Synthpop,Calm,76
+355,Born This Way (27),Leonard Cohen,Folk,Angry,132
+356,Shake It Off (14),Ed Sheeran,Synthpop,Romantic,150
+357,Despacito (25),Leonard Cohen,Alternative,Calm,101
+358,Stronger (71),BTS,Ballad,Romantic,156
+359,Sugar (22),Ed Sheeran,Alternative,Nostalgic,133
+360,Dark Horse (74),Queen,Folk,Angry,100
+361,Uptown Funk (89),Taylor Swift,Alternative,Romantic,113
+362,Born This Way (25),The Beatles,Alternative,Angry,163
+363,Thinking Out Loud (27),Bee Gees,Synthpop,Calm,130
+364,Believer (97),The Beatles,Rock,Nostalgic,164
+365,Stressed Out (17),BTS,Folk,Excited,155
+366,Old Town Road (64),Coldplay,Rock,Romantic,126
+367,Demons (53),Adele,Folk,Happy,65
+368,Sugar (81),Ed Sheeran,Folk,Calm,123
+369,Despacito (86),OneRepublic,Ballad,Excited,89
+370,Dark Horse (75),The Beatles,Synthpop,Excited,91
+371,Photograph (65),Taylor Swift,Folk,Happy,103
+372,Stronger (94),BTS,Synthpop,Angry,128
+373,Happier (89),OneRepublic,Rock,Sad,158
+374,Say You Won't Let Go (1),The Beatles,Disco,Calm,107
+375,Counting Stars (74),Leonard Cohen,Alternative,Angry,82
+376,Rolling in the Deep (11),BTS,Alternative,Calm,90
+377,God's Plan (52),The Weeknd,Ballad,Excited,169
+378,Cheap Thrills (88),Adele,Rock,Happy,93
+379,Bad Guy (38),The Weeknd,Folk,Nostalgic,81
+380,7 Years (16),The Beatles,Pop,Dramatic,137
+381,Timber (15),BTS,Alternative,Calm,140
+382,Timber (67),Leonard Cohen,Disco,Happy,75
+383,Old Town Road (14),Bee Gees,Rock,Romantic,138
+384,Perfect (21),The Beatles,Rock,Excited,166
+385,Stronger (68),Queen,Rock,Calm,88
+386,Thinking Out Loud (92),Queen,Ballad,Romantic,157
+387,Photograph (46),BTS,Disco,Sad,120
+388,Say You Won't Let Go (22),Leonard Cohen,Folk,Calm,90
+389,Can't Stop the Feeling (7),Taylor Swift,Pop,Nostalgic,119
+390,Cheap Thrills (15),OneRepublic,Pop,Calm,82
+391,Call Me Maybe (61),Taylor Swift,Synthpop,Excited,151
+392,Firework (30),The Weeknd,Pop,Happy,69
+393,Old Town Road (81),OneRepublic,Synthpop,Happy,102
+394,Counting Stars (69),Bee Gees,Pop,Sad,83
+395,Memories (3),Coldplay,Pop,Excited,127
+396,Born This Way (72),OneRepublic,Synthpop,Calm,132
+397,Closer (41),BTS,Disco,Angry,100
+398,Perfect (25),BTS,Synthpop,Excited,94
+399,Call Me Maybe (19),OneRepublic,Disco,Romantic,62
+400,Wake Me Up (69),The Weeknd,Pop,Dramatic,67
+401,Shake It Off (76),Coldplay,Synthpop,Dramatic,63
+402,Shallow (59),The Weeknd,Folk,Sad,134
+403,We Found Love (71),Adele,Rock,Nostalgic,125
+404,Blank Space (69),Adele,Synthpop,Excited,169
+405,Can't Stop the Feeling (13),Adele,Synthpop,Excited,179
+406,Rockstar (62),Bee Gees,Alternative,Sad,116
+407,Let Her Go (61),Coldplay,Rock,Dramatic,122
+408,Let Her Go (11),Adele,Ballad,Excited,108
+409,We Found Love (19),Ed Sheeran,Rock,Happy,102
+410,Shallow (17),Ed Sheeran,Ballad,Angry,179
+411,Timber (58),OneRepublic,Disco,Excited,111
+412,Photograph (75),The Beatles,Synthpop,Romantic,87
+413,Hey Jude (31),Queen,Disco,Excited,90
+414,Somebody That I Used to Know (46),Nirvana,Pop,Romantic,154
+415,Blank Space (57),Leonard Cohen,Alternative,Calm,61
+416,Lose Yourself (30),BTS,Disco,Nostalgic,139
+417,Believer (42),Adele,Rock,Nostalgic,165
+418,Demons (92),The Weeknd,Disco,Angry,148
+419,Perfect (36),OneRepublic,Alternative,Excited,117
+420,Happier (86),The Weeknd,Disco,Dramatic,127
+421,Thinking Out Loud (62),Taylor Swift,Pop,Calm,162
+422,We Found Love (2),The Weeknd,Pop,Calm,143
+423,Stressed Out (86),Leonard Cohen,Disco,Angry,85
+424,Firework (34),Queen,Rock,Nostalgic,142
+425,Just the Way You Are (56),The Weeknd,Synthpop,Happy,97
+426,Rolling in the Deep (16),The Beatles,Folk,Sad,167
+427,Lose Yourself (33),Coldplay,Rock,Nostalgic,106
+428,Somebody That I Used to Know (77),The Beatles,Rock,Angry,62
+429,God's Plan (92),The Weeknd,Ballad,Calm,92
+430,Born This Way (54),Adele,Disco,Nostalgic,61
+431,Senorita (98),Nirvana,Alternative,Sad,84
+432,Happier (51),Nirvana,Synthpop,Dramatic,67
+433,Perfect (94),Bee Gees,Rock,Excited,78
+434,Just the Way You Are (99),Taylor Swift,Disco,Angry,90
+435,Let Her Go (57),Bee Gees,Synthpop,Angry,83
+436,Rolling in the Deep (99),Leonard Cohen,Folk,Romantic,64
+437,Stronger (76),Leonard Cohen,Alternative,Nostalgic,76
+438,Born This Way (53),BTS,Folk,Angry,163
+439,Lovely (21),Adele,Rock,Sad,157
+440,Royals (7),The Beatles,Rock,Romantic,162
+441,Somebody That I Used to Know (31),BTS,Pop,Excited,142
+442,Can't Stop the Feeling (40),BTS,Rock,Calm,113
+443,Despacito (4),Bee Gees,Folk,Romantic,153
+444,Shallow (28),Taylor Swift,Disco,Dramatic,110
+445,Lovely (21),Taylor Swift,Ballad,Excited,113
+446,Say You Won't Let Go (72),Leonard Cohen,Ballad,Happy,127
+447,Somebody That I Used to Know (26),Queen,Rock,Calm,138
+448,Can't Stop the Feeling (65),Adele,Disco,Calm,87
+449,Girls Like You (39),The Beatles,Disco,Happy,110
+450,Shake It Off (32),The Weeknd,Disco,Angry,135
+451,Stressed Out (73),Ed Sheeran,Folk,Happy,125
+452,Let Her Go (27),Ed Sheeran,Alternative,Calm,179
+453,Sunflower (1),BTS,Rock,Excited,121
+454,Dark Horse (98),Adele,Alternative,Calm,143
+455,Timber (31),Nirvana,Synthpop,Angry,148
+456,Uptown Funk (72),Taylor Swift,Alternative,Sad,155
+457,Somebody That I Used to Know (41),Ed Sheeran,Pop,Nostalgic,88
+458,Bad Guy (71),Coldplay,Folk,Romantic,70
+459,We Found Love (8),OneRepublic,Alternative,Excited,63
+460,Firework (70),Coldplay,Synthpop,Romantic,100
+461,Can't Stop the Feeling (84),Coldplay,Alternative,Sad,172
+462,Shake It Off (91),The Weeknd,Rock,Nostalgic,123
+463,Dark Horse (94),BTS,Disco,Nostalgic,70
+464,Senorita (29),Adele,Synthpop,Romantic,145
+465,Call Me Maybe (99),Bee Gees,Disco,Nostalgic,151
+466,Despacito (56),Coldplay,Folk,Excited,171
+467,Call Me Maybe (22),The Beatles,Disco,Happy,67
+468,Old Town Road (65),BTS,Folk,Happy,177
+469,Memories (45),Bee Gees,Synthpop,Excited,63
+470,Say You Won't Let Go (91),Bee Gees,Disco,Angry,73
+471,Just the Way You Are (25),Bee Gees,Folk,Excited,63
+472,Girls Like You (53),Taylor Swift,Alternative,Dramatic,84
+473,Imagine (29),Adele,Rock,Sad,95
+474,Stronger (80),Bee Gees,Rock,Calm,176
+475,Uptown Funk (57),Ed Sheeran,Ballad,Sad,68
+476,Believer (52),Nirvana,Pop,Dramatic,103
+477,Photograph (9),Queen,Folk,Sad,158
+478,Rolling in the Deep (32),Leonard Cohen,Folk,Nostalgic,174
+479,Imagine (19),Nirvana,Alternative,Sad,80
+480,Dark Horse (25),BTS,Rock,Romantic,75
+481,Born This Way (98),BTS,Ballad,Nostalgic,102
+482,Believer (3),Taylor Swift,Synthpop,Excited,94
+483,Counting Stars (73),OneRepublic,Synthpop,Sad,133
+484,7 Years (77),BTS,Pop,Happy,139
+485,Born This Way (12),BTS,Pop,Calm,91
+486,Born This Way (53),OneRepublic,Synthpop,Happy,101
+487,Hey Jude (47),Taylor Swift,Folk,Sad,146
+488,Old Town Road (66),Taylor Swift,Folk,Happy,77
+489,Shake It Off (10),The Beatles,Disco,Calm,104
+490,Just the Way You Are (37),Leonard Cohen,Synthpop,Excited,83
+491,Counting Stars (50),Coldplay,Ballad,Dramatic,178
+492,Lose Yourself (67),Ed Sheeran,Disco,Romantic,112
+493,Happy (78),Bee Gees,Synthpop,Excited,162
+494,Animals (10),Ed Sheeran,Ballad,Excited,115
+495,7 Years (82),OneRepublic,Rock,Excited,116
+496,Counting Stars (65),OneRepublic,Rock,Happy,108
+497,Dark Horse (78),Taylor Swift,Alternative,Happy,115
+498,Senorita (65),BTS,Folk,Romantic,106
+499,Lovely (56),Queen,Disco,Excited,132
+500,Firework (91),Adele,Disco,Happy,171
+501,Juicy,The Notorious B.I.G.,Hip Hop,Aggresive,88
+502,N.Y. State of Mind,Nas,Rap,Uplifting,122
+503,Shook Ones Pt. II,Mobb Deep,Rap,energetic,108
+504,Dear Mama,Tupac Shakur,Rap,energetic,108
+505,C.R.E.A.M.,Wu-Tang Clan,Hip Hop,Aggresive,82
+506,Stan,Eminem,Hip Hop,Melancholic,104
+507,Ms. Jackson,OutKast,Rap,dark,93
+508,California Love,2Pac feat. Dr. Dre,Hip Hop,dark,89
+509,Big Pimpin',JAY-Z feat. UGK,Rap,Uplifting,85
+510,Rosa Parks,OutKast,Rap,chill,106
+511,99 Problems,JAY-Z,Hip Hop,Aggresive,86
+512,Still D.R.E.,Dr. Dre feat. Snoop Dogg,Rap,chill,85
+513,Hotline Bling,Drake,Hip Hop,Uplifting,105
+514,Alright,Kendrick Lamar,Hip Hop,Aggresive,114
+515,Gold Digger,Kanye West feat. Jamie Foxx,Hip Hop,Melancholic,103
+516,Empire State of Mind,JAY-Z feat. Alicia Keys,Rap,chill,96
+517,Old Town Road,Lil Nas X,Hip Hop,chill,110
+518,Sicko Mode,Travis Scott,Hip Hop,Melancholic,94
+519,God's Plan,Drake,Rap,chill,95
+520,Lucid Dreams,Juice WRLD,Rap,Melancholic,115
+521,Rockstar,Post Malone feat. 21 Savage,Rap,energetic,85
+522,Money Trees,Kendrick Lamar feat. Jay Rock,Hip Hop,dark,111
+523,Mask Off,Future,Rap,Melancholic,97
+524,XO TOUR Llif3,Lil Uzi Vert,Rap,chill,127
+525,Goosebumps,Travis Scott,Hip Hop,Aggresive,93
+526,Congratulations,Post Malone feat. Quavo,Rap,dark,87
+527,Love Sosa,Chief Keef,Rap,chill,113
+528,Thrift Shop,Macklemore & Ryan Lewis feat. Wanz,Rap,chill,101
+529,Trap Queen,Fetty Wap,Rap,dark,127
+530,Black and Yellow,Wiz Khalifa,Hip Hop,chill,83
+531,All I Do Is Win,DJ Khaled feat. T-Pain Ludacris Snoop Dogg & Rick Ross,Rap,dark,86
+532,Can't Hold Us,Macklemore & Ryan Lewis feat. Ray Dalton,Hip Hop,Aggresive,107
+533,Power,Kanye West,Hip Hop,Aggresive,111
+534,Stronger,Kanye West,Hip Hop,chill,87
+535,Swimming Pools (Drank),Kendrick Lamar,Rap,dark,114
+536,Mercy,Kanye West feat. Big Sean Pusha T & 2 Chainz,Rap,dark,130
+537,Anaconda,Nicki Minaj,Hip Hop,Aggresive,85
+538,Super Bass,Nicki Minaj,Hip Hop,Aggresive,114
+539,Hotline Bling,Drake,Hip Hop,dark,83
+540,One Dance,Drake feat. Wizkid & Kyla,Rap,Uplifting,89
+541,Work,Rihanna feat. Drake,Rap,Melancholic,87
+542,Starboy,The Weeknd feat. Daft Punk,Rap,dark,126
+543,Can't Feel My Face,The Weeknd,Rap,Uplifting,95
+544,Blurred Lines,Robin Thicke feat. T.I. & Pharrell,Rap,Uplifting,109
+545,Happy,Pharrell Williams,Hip Hop,Melancholic,86
+546,Uptown Funk,Mark Ronson feat. Bruno Mars,Rap,Melancholic,130
+547,See You Again,Wiz Khalifa feat. Charlie Puth,Hip Hop,chill,114
+548,Hotline Bling,Drake,Rap,dark,116
+549,Work,Rihanna feat. Drake,Rap,chill,120
+550,Starboy,The Weeknd feat. Daft Punk,Hip Hop,Aggresive,86
+551,Can't Feel My Face,The Weeknd,Hip Hop,energetic,113
+552,Blurred Lines,Robin Thicke feat. T.I. & Pharrell,Rap,energetic,106
+553,Happy,Pharrell Williams,Hip Hop,Uplifting,113
+554,Uptown Funk,Mark Ronson feat. Bruno Mars,Rap,Aggresive,115
+555,See You Again,Wiz Khalifa feat. Charlie Puth,Hip Hop,chill,114
+556,Hotline Bling,Drake,Rap,chill,99
+557,Work,Rihanna feat. Drake,Hip Hop,energetic,88
+558,Starboy,The Weeknd feat. Daft Punk,Rap,Melancholic,115
+559,Can't Feel My Face,The Weeknd,Rap,dark,122
+560,Blurred Lines,Robin Thicke feat. T.I. & Pharrell,Rap,dark,88
+561,Happy,Pharrell Williams,Hip Hop,dark,103
+562,Uptown Funk,Mark Ronson feat. Bruno Mars,Rap,chill,117
+563,See You Again,Wiz Khalifa feat. Charlie Puth,Hip Hop,Uplifting,96
+564,Hotline Bling,Drake,Rap,Melancholic,111
+565,Work,Rihanna feat. Drake,Hip Hop,chill,84
+566,Starboy,The Weeknd feat. Daft Punk,Hip Hop,energetic,97
+567,Can't Feel My Face,The Weeknd,Rap,Aggresive,124
+568,Blurred Lines,Robin Thicke feat. T.I. & Pharrell,Rap,energetic,98
+569,Happy,Pharrell Williams,Rap,energetic,100
+570,Uptown Funk,Mark Ronson feat. Bruno Mars,Hip Hop,Aggresive,84
+571,See You Again,Wiz Khalifa feat. Charlie Puth,Rap,energetic,129
+572,Hotline Bling,Drake,Rap,Melancholic,114
+573,Work,Rihanna feat. Drake,Hip Hop,chill,93
+574,Starboy,The Weeknd feat. Daft Punk,Hip Hop,Melancholic,80
+575,Can't Feel My Face,The Weeknd,Rap,energetic,93
+576,Blurred Lines,Robin Thicke feat. T.I. & Pharrell,Rap,Melancholic,128
+577,Happy,Pharrell Williams,Rap,dark,87
+578,Uptown Funk,Mark Ronson feat. Bruno Mars,Hip Hop,Uplifting,101
+579,See You Again,Wiz Khalifa feat. Charlie Puth,Hip Hop,Aggresive,82
+580,Hotline Bling,Drake,Hip Hop,chill,87
+581,Work,Rihanna feat. Drake,Rap,Uplifting,120
+582,Starboy,The Weeknd feat. Daft Punk,Hip Hop,Uplifting,107
+583,Can't Feel My Face,The Weeknd,Hip Hop,Uplifting,114
+584,Blurred Lines,Robin Thicke feat. T.I. & Pharrell,Hip Hop,Melancholic,85
+585,Happy,Pharrell Williams,Rap,energetic,91
+586,Uptown Funk,Mark Ronson feat. Bruno Mars,Hip Hop,energetic,100
+587,See You Again,Wiz Khalifa feat. Charlie Puth,Rap,Melancholic,124
+588,Hotline Bling,Drake,Hip Hop,Uplifting,111
+589,Work,Rihanna feat. Drake,Rap,dark,122
+590,Starboy,The Weeknd feat. Daft Punk,Hip Hop,dark,99
+591,Chapter Six,Kendrick Lamar,Hip Hop,Melancholic,94
+592,Bitch Don't Kill My Vibe (Explicit),Kendrick Lamar feat. Jay Rock,Hip Hop,energetic,107
+593,FEEL,Kendrick Lamar feat. Jay Rock,Hip Hop,chill,90
+594,Sing about me Im dying of thirst,Kendrick Lamar feat. Jay Rock,Hip Hop,Uplifting,90
+595,Come to Life,Kanye West,Rap,Melancholic,120
+596,Who Gon Stop Me,Kanye West,Hip Hop,Aggresive,102
+597,God IS,Kanye West,Hip Hop,Melancholic,80
+598,Follow God,Kanye West,Rap,Uplifting,117
+599,Walkin,Denzel Curry,Hip Hop,Aggresive,107
+600,ONCE UPON A TIME (FREESTYLE),Denzel Curry,Rap,Uplifting,121
