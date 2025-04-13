@@ -11,7 +11,7 @@ inline double cosineSimilarity(const std::vector<double> &a, const std::vector<d
         normA += a[i] * a[i];
         normB += b[i] * b[i];
     }
-    return dot / (sqrt(normA) * sqrt(normB) + 1e-10);
+    return dot / (sqrt(normA) * sqrt(normB));
 }
 
 inline std::vector<Song> recommendSongs(const Song &input, const std::vector<Song> &allSongs, int topN = 5)
